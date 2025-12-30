@@ -13,4 +13,4 @@ To enable deployment:
 3. Under **Build and deployment** > **Source**, select **GitHub Actions**.
 4. The deployment will happen automatically on the next push to `main`.
 
-**Live Site**: [https://ritesh2k.github.io/Artiflux/privacy-policy/](https://ritesh2k.github.io/Artiflux/privacy-policy/)
+**Live Site**: [https://ritesh2k.github.io/artiflux/privacy-policy/](https://ritesh2k.github.io/Artiflux/privacy-policy/)
